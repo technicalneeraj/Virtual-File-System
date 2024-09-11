@@ -1,3 +1,9 @@
+Things that i have noticed to changed
+#include<stdio.h>: Clarified that it's C-style I/O, with a mention that C++ offers a more type-safe approach via iostream.
+#include<string.h>: Emphasized the use of null-terminated strings and noted the preference for string in modern C++.
+#include<io.h>: Clarified its platform-specific nature (Windows).
+#include<unistd.h>: Highlighted its role in Unix-like systems and its inclusion of system call wrappers.
+
 Library Used in Virtual File System Project
 
   1. #include<iostream>
